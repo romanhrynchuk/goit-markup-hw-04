@@ -158,6 +158,10 @@ p {
 
 .nav-list-link:hover,
 .nav-list-link:focus,
+.header-mail:hover .header-mail-icon,
+.header-mail:focus .header-mail-icon,
+.header-tel:hover .header-tel-icon,
+.header-tel:focus .header-tel-icon,
 .header-mail:hover,
 .header-mail:focus,
 .header-tel:hover,
